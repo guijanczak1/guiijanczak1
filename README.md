@@ -1,10 +1,11 @@
 # 👋 Olá, eu sou Guilherme Janczak!
 <div align="center">
   <a href="https://github.com/guijanczak1">
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=guijanczak1&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" style="margin-right: 3rem;" src="https://github-readme-stats.vercel.app/api?username=guijanczak1&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
     <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijanczak1&layout=compact&langs_count=7&theme=holi"/>
   </a>
 </div>
+<br />
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" />
@@ -20,6 +21,9 @@
   <img align="center" alt="Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cucumber/cucumber-plain-wordmark.svg">
 </div>
 
+<br />
+<br />
+<br />
 ### 💻 Sobre mim
 Sou um desenvolvedor especializado em **Java** com **Spring Boot**, atuando há mais de **8 anos** no mercado de tecnologia. Durante minha trajetória, trabalhei em grandes empresas como **Itaú, Porto Seguro e Bradesco**, acumulando experiência com **arquitetura de sistemas**, **bancos de dados relacionais e não relacionais**, além de **cloud computing**.
 
