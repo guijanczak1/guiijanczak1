@@ -60,6 +60,6 @@ Atualmente, estou prestando serviço para o Bradesco, em paralelo eu atuo como *
 
 - 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/guilherme-janczak/)
 
-- 📂 GitHub: [Seu GitHub](https://github.com/guiijanczak1)
+- 📂 GitHub: [Seu GitHub](https://github.com/guijanczak1)
 
 🚀 Sempre buscando novos desafios e oportunidades para inovar!
