@@ -6,6 +6,7 @@
   </a>
 </div>
 <br />
+<br />
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" />
@@ -23,7 +24,7 @@
 
 <br />
 <br />
-<br />
+
 ### 💻 Sobre mim
 Sou um desenvolvedor especializado em **Java** com **Spring Boot**, atuando há mais de **8 anos** no mercado de tecnologia. Durante minha trajetória, trabalhei em grandes empresas como **Itaú, Porto Seguro e Bradesco**, acumulando experiência com **arquitetura de sistemas**, **bancos de dados relacionais e não relacionais**, além de **cloud computing**.
 
